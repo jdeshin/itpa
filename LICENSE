@@ -1,21 +1,17 @@
-MIT License
+﻿Copyright (c) 2018 Дешин Юрий
 
-Copyright (c) 2019 jdeshin
+Предоставляются права на использование, копирование, изменение и распространение данного
+программного обеспечения и его документации для целей тестирования, разработки ПО, ознакомления 
+с функциональностью, коммерческой эксплуатации,  использования в образовательном процессе 
+бесплатно и без подписания какого-либо соглашения, при условии что для каждой копии будут 
+предоставлены данное выше замечание об авторских правах, текущий абзац и два следующих абзаца. 
+Использование в других целях, встраивание в другие продукты с целью последующей продажи, тиражирование 
+и прочие действия требуют приобретения отдельной лицензии.
+Автор не несет никакой ответственности за любые повреждения, включая потерю дохода, нанесенные прямым 
+или непрямым, специальным или случайным использованием данного программного обеспечения или его 
+документации, даже если автор был извещен о возможности таких повреждений.
+Автор специально отказывается предоставлять любые гарантии, включая, но не ограничиваясь только этими 
+гарантиями: неявные гарантии пригодности товара или пригодности для отдельной цели. Данное программное 
+обеспечение предоставляется на основе принципа "как есть" и автор не обязан предоставлять сопровождение, 
+поддержку, обновления, расширения или изменения.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
